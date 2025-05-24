@@ -1,4 +1,4 @@
-Copyright (c) 2011-2024 Luicer Lab.
+Copyright (c) 2023-2025 Luicer Lab.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
